@@ -1,3 +1,4 @@
-#keep calm
-#and be nice
-#and be happy
+# keep calm
+# and be nice
+# and be happy
+# and amazing
