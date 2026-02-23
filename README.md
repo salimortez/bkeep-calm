@@ -3,3 +3,4 @@
 # and be happy
 # and amazing
 #and be rich
+# “You are stronger than you think.”
